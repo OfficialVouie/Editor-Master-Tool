@@ -5,7 +5,7 @@
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](#license)
 [![Status](https://img.shields.io/badge/status-stable-brightgreen.svg)]()
 [![Platform](https://img.shields.io/badge/platform-Editor%20Only-lightgrey)]()
-[![Discord](https://img.shields.io/discord/yourdiscordid.svg?label=Join%20Discord&logo=discord&color=7289DA)](https://discord.gg/YOUR_INVITE)
+[![Discord](https://img.shields.io/discord/yourdiscordid.svg?label=Join%20Discord&logo=discord&color=7289DA)]([https://discord.gg/YOUR_INVITE](https://discord.gg/gmb4dnVkRX))
 
 ---
 
